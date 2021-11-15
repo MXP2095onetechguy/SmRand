@@ -1,0 +1,17 @@
+{
+  "name": "smrand",
+  "version": "1.0.0",
+  "description": "Simple random utility",
+  "main": "index.js",
+  "scripts": {
+    "start": "node Src/index.js",
+    "test": "node Src/test.js"
+  },
+  "keywords": ["random"],
+  "author": "MXPSQL",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MXP2095onetechguy/SmRand.git"
+  }
+}
