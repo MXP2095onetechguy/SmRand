@@ -1,8 +1,8 @@
 {
   "name": "smrand",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "description": "Simple random utility",
-  "main": "index.js",
+  "main": "Src/index.js",
   "scripts": {
     "start": "node Src/index.js",
     "test": "node Src/test.js"
